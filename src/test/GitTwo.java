@@ -9,7 +9,7 @@ public class GitTwo {
 		
 		
 		System.out.println("this is for push practice");
-	}
+	System.out.println("this is for push push  practice");
 	
 
-}
+}}
