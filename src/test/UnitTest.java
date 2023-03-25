@@ -8,11 +8,9 @@ public class UnitTest {
 		int b = 15;
 		int c = a+b;
 		System.out.println(c);
-		System.out.println(testone(10,5));
+		System.out.println("hello");
 		
 		
-	}
-	public static int testone(int a, int b) {
-		return a-b;
+	
 	}
 }
